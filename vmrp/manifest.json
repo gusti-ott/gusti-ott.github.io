@@ -1,6 +1,6 @@
 {
-    "name": "multimodal_routeplanner",
-    "short_name": "multimodal_routeplanner",
+    "name": "Smart Advisor for Sustainable Integrated Mobility - SASIM",
+    "short_name": "SASIM",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
